@@ -1,0 +1,15 @@
+SPRITE escombro_01
+SIZE 16 8
+COLORS 2
+A B66D55
+B FFDAAA
+PIXELS
+.........AAA....
+........AABAA...
+AA......ABAAAA..
+........AAAAAA..
+.........AAAAAA.
+............AAA.
+...AAA..........
+....AAA.........
+END

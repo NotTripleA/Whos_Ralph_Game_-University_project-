@@ -1,0 +1,20 @@
+SPRITE blinky_sin_capa_02
+SIZE 22 11
+COLORS 4
+A DEDEFF
+B 2121FF
+C FFB7AE
+D FF0000
+PIXELS
+................AA.AA.
+...............AABBABB
+...............AABBABB
+..............CCAACAA.
+..............CCCCCC..
+.............CCCCCCC..
+............CCCCCCCC..
+............CCCCCCCC..
+..DD......DDDDCCCCCCCC
+.DDDDDDDDDDDDDDCCCCCCC
+DDDDDDDDDDDDDD.....CCC
+END

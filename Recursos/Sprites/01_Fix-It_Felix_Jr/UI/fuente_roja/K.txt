@@ -1,0 +1,14 @@
+SPRITE K
+SIZE 8 8
+COLORS 1
+A DA0000
+PIXELS
+AA...AA.
+AA..AA..
+AA.AA...
+AAAA....
+AAAAA...
+AA.AAA..
+AA..AAA.
+........
+END

@@ -1,0 +1,13 @@
+SPRITE fantasma_1600
+SIZE 19 7
+COLORS 1
+A 00FFFF
+PIXELS
+A..A..AAA..AA...AA.
+.A.A.A....A..A.A..A
+.A.A.A....A..A.A..A
+.A.A.AAAA.A..A.A..A
+.A.A.A..A.A..A.A..A
+.A.A.A..A.A..A.A..A
+A..A..AA...AA...AA.
+END

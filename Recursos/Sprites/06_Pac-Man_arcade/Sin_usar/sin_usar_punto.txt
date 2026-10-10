@@ -1,0 +1,10 @@
+SPRITE sin_usar_punto
+SIZE 4 4
+COLORS 1
+A FFB7AE
+PIXELS
+.AA.
+AAAA
+AAAA
+.AA.
+END

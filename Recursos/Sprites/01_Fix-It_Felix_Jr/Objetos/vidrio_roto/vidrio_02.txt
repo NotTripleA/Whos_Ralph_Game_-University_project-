@@ -1,0 +1,23 @@
+SPRITE vidrio_02
+SIZE 16 16
+COLORS 2
+A FFFFFF
+B 000000
+PIXELS
+................
+................
+................
+.........AAAAA..
+........AAAAAA..
+.......AABAAAA..
+.......ABAAABA..
+.......BAAABAA..
+.......AAABAAA..
+.......AABAAAA..
+......AAAAAAAA..
+.....AABAAAAAA..
+....AABAAAAAAA..
+...AAAAAAAAAAA..
+................
+................
+END

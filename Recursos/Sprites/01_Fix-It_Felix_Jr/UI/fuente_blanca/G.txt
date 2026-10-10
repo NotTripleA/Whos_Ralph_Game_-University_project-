@@ -1,0 +1,14 @@
+SPRITE G
+SIZE 8 8
+COLORS 1
+A FFFFFF
+PIXELS
+..AAAAA.
+.AA.....
+AA......
+AA..AAA.
+AA...AA.
+.AA..AA.
+..AAAAA.
+........
+END

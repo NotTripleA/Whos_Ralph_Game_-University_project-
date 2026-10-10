@@ -1,0 +1,19 @@
+SPRITE fruta_6_galaxian
+SIZE 11 11
+COLORS 3
+A FF0000
+B 2121FF
+C FFFF00
+PIXELS
+.....A.....
+B...AAA...B
+B..AAAAA..B
+BCAACACAACB
+BCCCCACCCCB
+BBCCCCCCCBB
+.BBC.C.CBB.
+..BB.C.BB..
+...B.C.B...
+.....C.....
+.....C.....
+END

@@ -1,0 +1,20 @@
+SPRITE fruta_1_cereza
+SIZE 12 12
+COLORS 3
+A DE9751
+B FF0000
+C DEDEFF
+PIXELS
+..........AA
+........AAAA
+......AA.A..
+.....A...A..
+.BBBA...A...
+BBBABB.A....
+BBBBB.BABB..
+BCBB.BBABBB.
+BBCB.BBBBBB.
+.BBB.BCBBBB.
+.....BBCBBB.
+......BBBB..
+END

@@ -1,0 +1,14 @@
+SPRITE H
+SIZE 8 8
+COLORS 1
+A FFFFFF
+PIXELS
+AA...AA.
+AA...AA.
+AA...AA.
+AAAAAAA.
+AA...AA.
+AA...AA.
+AA...AA.
+........
+END

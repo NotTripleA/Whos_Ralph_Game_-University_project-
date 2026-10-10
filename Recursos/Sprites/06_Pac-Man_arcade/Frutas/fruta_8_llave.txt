@@ -1,0 +1,20 @@
+SPRITE fruta_8_llave
+SIZE 7 13
+COLORS 2
+A 47B7FF
+B DEDEFF
+PIXELS
+..AAA..
+AA...AA
+AAAAAAA
+AAAAAAA
+AAAAAAA
+..B.B..
+..B.BB.
+..B.B..
+..B....
+..B.B..
+..B.BB.
+..B.B..
+...B...
+END

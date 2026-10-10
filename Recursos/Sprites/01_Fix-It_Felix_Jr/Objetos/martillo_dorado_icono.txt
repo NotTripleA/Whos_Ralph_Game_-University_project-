@@ -1,0 +1,24 @@
+SPRITE martillo_dorado_icono
+SIZE 8 16
+COLORS 3
+A FFFFFF
+B FF9100
+C 910000
+PIXELS
+........
+........
+........
+AAA.....
+BBBCBAA.
+BBBCBBBA
+BBBCBB.B
+BBB.BB..
+....BB..
+....BB..
+....BB..
+....BB..
+....BB..
+....BB..
+....BB..
+....BB..
+END

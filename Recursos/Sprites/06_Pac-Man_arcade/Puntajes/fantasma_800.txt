@@ -1,0 +1,13 @@
+SPRITE fantasma_800
+SIZE 15 7
+COLORS 1
+A 00FFFF
+PIXELS
+...AAA...AA...A
+A.A...A.A..A.A.
+A.A...A.A..A.A.
+A..AAA..A..A.A.
+A.A...A.A..A.A.
+A.A...A.A..A.A.
+...AAA...AA...A
+END

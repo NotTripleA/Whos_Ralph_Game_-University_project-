@@ -1,0 +1,17 @@
+SPRITE icono_02
+SIZE 8 8
+COLORS 4
+A FF0000
+B 000000
+C FFFF00
+D FFFFFF
+PIXELS
+..AAAA..
+.ABBBBA.
+.AABBAA.
+..ACDA..
+..CDDC..
+..DDCC..
+...CC...
+........
+END

@@ -1,0 +1,89 @@
+SPRITE minimapa
+SIZE 73 72
+COLORS 12
+A E2DEDA
+B FEFEFE
+C 604D47
+D 090402
+E 332F26
+F BF9F91
+G A0887E
+H 370F0A
+I CD8247
+J 907851
+K D1CB7D
+L ADB794
+PIXELS
+....ABBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB............................
+...BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB...........................
+..ABBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBA.........................
+..ABBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB.........................
+..CDDDDDDBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB.........................
+..EDDDDDDFBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB.........................
+DDDGGGGGGEE............................ABBBBBBBB.........................
+DDDBBBBBBDD............................ABBBBBBBB.........................
+DDDBBCCBADD..............................BBBBBBBBA.......................
+DDDBBCCBADD..............................BBBBBBBBA.......................
+DDDBACCAADD..............................BBBBBBBBA.......................
+DDDBAFAAADD..............................BBBBBBBBA.......................
+.DDAAFFCADD..............................BBBBBBBBB.......................
+..DDDDDDD................................BBBBBBBBBBB.....................
+..DDDDDDD.................................BBBBBBBBBB.....................
+..BBBBBBB..................................BBBBBBBBBBB...................
+..BBBBBBB..................................BBBBBBBBBBB...................
+..BBBBBBB..................................BBBBBBBBBBBAAAA...............
+..BBBBBBB..................................BBBBBBBBBBBBBBB...............
+..BBBBBBB....DDDDDDD.........F..........F....ABBBBBBBBBBBBBBBBBBBBBBB....
+..BBBBBBB....DDDDDDD........GFG........GFG...ABBBBBBBBBBBBBBBBBBBBBBBB...
+..BBBBBBBBB.DHHIIIIHDD......GFG........GFG.....ABBBBBBBBBBBBBBBBBBBBBBB..
+..BBBBBBBBBDDHIIIIIIDD......GFG........GFG.....ABBBBBBBBBBBBBBBBBBBBBBB..
+..BBBBBBBBBDDJIIIIIIDD......GFG........GFG......BBBBBBBBBBBBBBBBBBBBBBB..
+..BBBBBBBBBDDDHJIIIJDD......GFG........GFG..........BBBBBBBBBBBBBBBBBBB..
+..BBBBBBBBBDDDHCJJJDDDBBB....F..........F...........BBBBBBBBBBBBBBBBBBB..
+..BBBBBBBBBDDDGAFGDDDDBBBB...................................BBBBBBBBBB..
+..ABBBBBBBBBDCCGAGDDDDBBBB...................................BBBBBBBBBB..
+.....BBBBBBBBDDDDDDDBBBBBBBB...................................BBBBBBBB..
+.....BBBBBBBBDDDDDDDBBBBBBBBA..................................BBBBBBBB..
+...................BBBBBBBBBA....................................BBBBBB..
+..................BBBBBBBBBBA....................................BBBBBB..
+.....................BBBBBBBBA...................................BBBBBB..
+.........F............BBBBBBBB...................................BBBBBB..
+.........FF...........BBBBBBBB...................................BBBBBB..
+.........FG...........BBBBBBBB...................................BBBBBB..
+.........FG...........DDDDDDBB...................................BBBBBB..
+........GFG..........CDDDDDDBB...................................BBBBBB..
+.........FG.........ECDDDDDDCB...................................BBBBBB..
+.........FG........CDDKKKKKKDDD..................................BBBBBB..
+........GFG........CDDKKJJKKDDD..................................BBBBBB..
+........GGG........CDDKKJJJKDDD..................................BBBBBB..
+........GGG........CDDKJJJJJDDD..................................BBBBBB..
+........GGG........CDDKKJJJJDDD..................................BBBBBB..
+....FGGGGGG........CDDLKJKKLDDD..................................BBBBBB..
+....................BCDDDDDDEE..................GG...............BBBBBB..
+...................BBBDDDDDDE...................GG...............BBBBBB..
+..................BBBBBBBBBB....................G................BBBBBB..
+.................BBBBBBBBBBB.....................................BBBBBB..
+................BBBBBBBBBBBB.....................................BBBBBB..
+...............BBBBBBBBBBB.......................................BBBBBB..
+..............BBBBBBBBBBBB.......................................BBBBBB..
+.............BBBBBBBBBBB.........................................BBBBBB..
+............BBBBBBBBBBB..........................................BBBBBB..
+...........BBBBBBBBBBB...........................................BBBBBB..
+..........ABBBBBBBBBB............................................BBAHBB..
+..........DDDBBBBBBB.............................................BAJJCB..
+..........DDDAABBBB...........................................C..HHJJJDD.
+........DDBBCDDBBB...........................................DDAGDHJJDDD.
+........DDBBADDBB...........................................HJHHADDDDDDDD
+......DDAAAGFAGDD...........................DDDDDD.........DHJJHDDDDDDDDD
+......EDAAAHHAADD..........................DDDDDDD.........DHJJHDDDGLFJDD
+.....AADDAFHFFDDDEEEE.........AAAAAAAAAAA..DDDDDDDDD.AAAAADDCJJDDDLLLFJDD
+.....BADDDFAADDDDDDDDD......BBBBBBBBBBBBB.DDDDAGEDDDABBBBBDDJJJCDDEEEEECD
+.....BBDDDDDDDDDDDDDDDD.....BBBBBBBBBBBBBDDDDAAGGEDDABBBBGDFLLLLFGDDDDDEL
+.....BBBDDDDDDDDEHHHHDDDBBBBBBBBBBBBBBBBBDDLLAAALLDDABBBBGDHFLFFFGDDDDDL.
+.....BBBBDDDDDDDEHHHHDDDBBBBBBBBBBBBBBBBBDDLL.AALCDDABBBBBBCDDHHCECBBB...
+.....BBBBBBBBDDDEEKCHDDDBBBBBBBBBBBBBBBBBBBD....CDABBBBBBBBDDDDDDDBBBB...
+.....BBBBBBBBDDDEKKKDDDDBBBBBBBBBBAABBBBBBB......EABBAAAAABDDDDDDDAA.....
+.......BBBBBBDDDKKKKKDDDBBBBBBBBB........................................
+.......BBBBBBDDDKKKKKKDDBBBBBBBBA........................................
+..............ECDDDDDDE..................................................
+END

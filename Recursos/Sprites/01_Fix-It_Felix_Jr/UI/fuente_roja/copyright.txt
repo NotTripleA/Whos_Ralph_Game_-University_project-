@@ -1,0 +1,14 @@
+SPRITE copyright
+SIZE 8 8
+COLORS 1
+A DA0000
+PIXELS
+..AAAA..
+.A....A.
+A..AA..A
+A.A....A
+A.A....A
+A..AA..A
+.A....A.
+..AAAA..
+END

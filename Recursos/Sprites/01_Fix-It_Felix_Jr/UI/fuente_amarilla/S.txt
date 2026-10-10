@@ -1,0 +1,14 @@
+SPRITE S
+SIZE 8 8
+COLORS 1
+A FFFF00
+PIXELS
+.AAAA...
+AA..AA..
+AA......
+.AAAAA..
+.....AA.
+AA...AA.
+.AAAAA..
+........
+END

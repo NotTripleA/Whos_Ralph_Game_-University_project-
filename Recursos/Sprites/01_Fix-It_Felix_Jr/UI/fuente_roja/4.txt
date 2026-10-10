@@ -1,0 +1,14 @@
+SPRITE 4
+SIZE 8 8
+COLORS 1
+A DA0000
+PIXELS
+...AAA..
+..AAAA..
+.AA.AA..
+AA..AA..
+AAAAAAA.
+....AA..
+....AA..
+........
+END

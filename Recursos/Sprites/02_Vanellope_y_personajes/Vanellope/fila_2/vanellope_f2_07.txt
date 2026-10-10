@@ -1,0 +1,37 @@
+SPRITE vanellope_f2_07
+SIZE 15 20
+COLORS 12
+A DA2400
+B 484855
+C 000000
+D B6B6FF
+E FF91FF
+F FF9100
+G FFB6AA
+H DA00AA
+I 2491AA
+J 4848AA
+K 6D0000
+L FFFFFF
+PIXELS
+...............
+.....A.........
+...BBAB........
+..BBBCABBCDB...
+.BBEBABBCBBBB..
+.FBBCFBCABBGB..
+BBBCBBBCBBGGB..
+BB..BBGBBGCG...
+B...BBGBBGCGH..
+.....BCBGGGGG..
+......CBGGGG...
+.....IIJIIJ.GG.
+....GGIIIAIAGG.
+....GGJJIAIAJ..
+.......JIIIJ...
+.......KKKKK.B.
+......KKKKLIBB.
+.....BII...IB..
+.....BB........
+......BB.......
+END

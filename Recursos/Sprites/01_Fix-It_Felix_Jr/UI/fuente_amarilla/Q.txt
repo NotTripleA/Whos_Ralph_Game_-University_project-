@@ -1,0 +1,14 @@
+SPRITE Q
+SIZE 8 8
+COLORS 1
+A FFFF00
+PIXELS
+.AAAAA..
+AA...AA.
+AA...AA.
+AA...AA.
+AA.AAAA.
+AA..AA..
+.AAAA.A.
+........
+END

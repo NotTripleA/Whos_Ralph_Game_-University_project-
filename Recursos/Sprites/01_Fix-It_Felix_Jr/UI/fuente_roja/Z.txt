@@ -1,0 +1,14 @@
+SPRITE Z
+SIZE 8 8
+COLORS 1
+A DA0000
+PIXELS
+AAAAAAA.
+....AAA.
+...AAA..
+..AAA...
+.AAA....
+AAA.....
+AAAAAAA.
+........
+END

@@ -1,0 +1,73 @@
+SPRITE efecto_09
+SIZE 48 50
+COLORS 18
+A 6A3F23
+B AA7847
+C DCAE70
+D FDDE8A
+E 59402F
+F A98873
+G D69547
+H F5BF62
+I FEF2B3
+J 7D6252
+K B6682B
+L 874419
+M 4D443C
+N 46494A
+O 5F5F63
+P 79777E
+Q 63675E
+R 601F04
+PIXELS
+ABBCDDDCCCCAE........EEAFF........EAAGHCDDDCCBAA
+CCCCIIDDCDDCEE.......EEBFA........EBGGHHDDDDCGBA
+CDDIIIIIDDDCEE.......EFFJE........ABGGDDDDDDHGBB
+CDIIIIIIDDCBAE.......JFFEE........AAGGDDDDDDHHCC
+CDDIIIIIDDCCBE.......EEJE.........AAGGGDDDDHHDDD
+DDDDIIIDDDCCAE........EJJ.........AAGGKHHDDDDDDD
+DDDDDDDDHBBBE..........JJ.........AALKGGGHDDDDDD
+HHDDDDDDHBBAE.....................AAKGGGGHDDDDHH
+GHDDDDDHHBBAE....................EEBGGGGGHDDDDGG
+GCHHHHGGGLAEE....................EAAGKGGGGHHHHGB
+BCCHHGGGGBAEE....................EABGGGGGGHGGGGA
+EBBGGGGBAAJJE...................JEJAAKKLLGGGGBAA
+EEEBBBBAEEEJE...................JJJEAAAAAAABBEEE
+..EEEEEEEEEEF....................EEEEEEEEEEEEEMM
+...................................MMMMMMMMMMMMM
+....................................MMMMMMMMMNNN
+.....................................NOONNNNNNNN
+......................................OONNNNNNNN
+.......................................NNNNNNNNM
+........................................NNNNNMMM
+.........................................NNNMMMM
+.........................................NNMMEFJ
+.........................................MMMEEAA
+.........................................MMEAAAA
+.........................................MJFFBBB
+..........................................EEABBA
+............................................EJJE
+..............................................EE
+................................................
+................................................
+................................................
+................................................
+................................................
+................................................
+.............................................PO.
+.............................................QO.
+..EEEEEEEEMO......................MJ........EEMM
+EEBBBBAAEEEMM.....................MJJAAAEEEEEEEE
+EACCBCBBBAEEEM....................EEAABBABAAAEEE
+ABCDDDDCCBAAEMM..................EEARRBGGGGCCBAE
+CCDDDDHCCBBAAJJ..................EEALKKKGHHHCBAA
+DDDDDDGHHHHBAEE..................EBBGGGGGGHHGBAA
+CDDDDGGHHHGBBEE..................ABCGGGGGHDDDGCA
+CCDDDGGGHGGBAE...................EACCDDHGDDDDCCB
+CDDIIDDDHGGLAE...................EACCDDDHHDDHHBA
+CDIIIIIIDDDBEE...................EALHDDDDHHGGGBA
+BCIIIIIIDDDBAE...................EABCHDHHHHGGBAA
+BCDIIIIIIDCCJE...................EABGGGGGGGGBAAE
+BCCCIIIIICCBA.....................EBBGGGKLLBBEE.
+ABBBIIIIDBBAE.....................EAABBLLAAAEE..
+END

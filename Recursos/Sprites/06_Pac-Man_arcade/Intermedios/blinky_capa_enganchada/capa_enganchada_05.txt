@@ -1,0 +1,12 @@
+SPRITE capa_enganchada_05
+SIZE 7 5
+COLORS 2
+A FF0000
+B DEDEFF
+PIXELS
+......A
+.....AA
+...AAAA
+..AAAAA
+AAAAAAB
+END

@@ -1,0 +1,14 @@
+SPRITE Y
+SIZE 8 8
+COLORS 1
+A 0091FF
+PIXELS
+.AA..AA.
+.AA..AA.
+.AA..AA.
+..AAAA..
+...AA...
+...AA...
+...AA...
+........
+END

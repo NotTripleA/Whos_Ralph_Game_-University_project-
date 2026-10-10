@@ -1,0 +1,13 @@
+SPRITE fruta_700
+SIZE 14 7
+COLORS 1
+A FFB7FF
+PIXELS
+AAAAA..AA...AA
+A...A.A..A.A..
+...A..A..A.A..
+...A..A..A.A..
+..A...A..A.A..
+..A...A..A.A..
+..A....AA...AA
+END

@@ -1,0 +1,66 @@
+SPRITE titulo
+SIZE 175 23
+COLORS 38
+A 220804
+B FFECA9
+C FFDF6A
+D FFD640
+E DBB837
+F D1AF34
+G A58B29
+H 5C160A
+I FFBC57
+J DB9222
+K D18B20
+L A56E1A
+M FFAA28
+N FFD89E
+O FF954F
+P FF781E
+Q D16218
+R DB6719
+S A54E13
+T FFC299
+U F06A4D
+V CA3718
+W C13416
+X 992912
+Y EC401C
+Z F6A998
+a D44F4A
+b C81E18
+c AC1914
+d 82130F
+e A41813
+f E69997
+g AD4647
+h 810F11
+i 610B0D
+j 7B0E10
+k 961214
+l CF9495
+PIXELS
+AAAAAA....AAAAAAAAAAAA....AAAAAA..AAAAAAAAAAAA..AAAAAA..AAAAAAAAAAAAAA........AAAAAAAAAAAAAA......AAAAAAAA....AAAAAA..........AAAAAAAAAAAAAA..AAAAAA....AAAAAA..AAAAAAAAAAAA...
+ABBBBA....ABBBBAABBBBA....ABBBBA..ABBBBBBBBBBA..ABBBBA..ABBBBBBBBBBBBA........ABBBBBBBBBBBBA......ABBBBBBA....ABBBBA..........ABBBBBBBBBBBBA..ABBBBA....ABBBBA..ABBBBBBBBBBA...
+ACDEFA....ACDDFAACDDFA....ACDDFAAAACDGGGGGGDFAAAACDDFAAAACDGGGGGGGGGGA........ACEDDGGGGGGDFAAA..AAACDGGDFAAA..ACDDFA..........ACDEDGGGGGGDFAAAACDDFA....ACDDFAAAACDGGGGGGDFAAA.
+ACDEFAH...ACDDFAACDDFAH...ACDDFAABBDFAAAAAACDBBAACDDFAABBDFAAAAAAAAAAAH.......ACEDFAAAAAACDBBA..ABBDFAACDBBA..ACDDFAH.........ACDEFAAAAAACDBBAACDDFAH...ACDDFAABBDFAAAAAACDBBA.
+AIJJKAH...AIJJKAAIJJKAH...AIJJKAAIJJKAHHHHAIJJKAAILJKAAIJJKAHHHHHHHHHHH.......AIJJKAHHHHAIJJKAAAAIJLLAAILJKAAAAIJJKAH.........AIJJKAHHHHAIJJKAAIJJKAH...AIJJKAAILLLAHHHHAIJJKA.
+AIMMKAH...AIMMKAAIMMKAH...AIJMKAAIMJKAH...AIMMKAAAAIKAAIJMKAH.................AIMMKAH...AIMJKAANNMKAAAAAAIMNNAAIJMKAH.........AIMMKAH...AIMMKAAIMMKAH...AIJMKAAAAAAAH...AIMMKAH
+AOPPQAAAAAAOPPQAAOPPQAAAAAAORPQAAOPRQAH...AOPPQAAAAOSAAOSPQAAAAAAAAA..........AOPPQAAAAAAOPSSAAOPPQAHHH.AOPPQAAORPQAH.........AOPPQAAAAAAOPSSAAOPPQAAAAAAORPQAH..HHHAAAAAOPSSAH
+AOPPQAATTAAOPPQAAOPPPTTTTTTPRPQAAOPRQAH...AOPPQAATTAAAAAAOPTTTTTTTTA..........AOPPPTTTTTTPQAAAAOPPQAH...AOPPQAAORPQAH.........AOPPPTTTTTTPQAAAAOPPPTTTTTTPRPQAH.....ATTTTPQAAAH
+AUVVWAAUWAAUVVWAAUVVVXXXXXXVVVWAAUVVWAH...AUVVWAAUXA.HH.AUXXXXXXXVWAAA........AUVVVXXVVVVXXAHHAUVVWAAAAAAUVVWAAUVVWAH.........AUVVVXXXXXXXXAHHAUVVVXXXXXXVVVWAH.....AUVVVXXAHHH
+AUYVYZZYYZZYYYWAAUYYWAAAAAAUYYWAAUYYWAH...AUYVWAAAAAH...AAAAAAAAAUVZZA........AUVYWAAUYVWAAAH.AUYYYZZZZZZYYYWAAUYYWAH.........AUYVWAAAAAAAAAH.AUYYWAAAAAAUYYWAH.....AUYYWAAAH..
+AabcbbbddbcbbbeAAabbeAHHHHAabbeAAabbeAH...AabceAH..HH......HHHHHAacbeA........AacbeAAadceAAAH.AabbbddddddbbbeAAabbeAH.........AabceAHHHHHHHHH.AabbeAHHHHAabbeAH.....AadddAHHH..
+AabcbbeAAacbbbeAAabbeAH...AabbeAAabbeAH...AabceAH...............AacbeAH.......AacbeAAAAabffA..AabbeAAAAAAabbeAAabbeAH.........AabceAH.........AabbeAH...AabbeAH.....AAAAAAH....
+AghhhiiAAgihhhjAAghhjAH...AghhjAAgihjAAAAAAghiiAH.....AAAAAAAAAAAghiiAH.......AghhjAH.AgihjAAAAghhjAHHHHAghhjAAghhjAAAAAAAAAAAAghhjAAA........AghhjAH...AghhjAH.....AAAAAAH....
+AgkkjAAAAAAgkkjAAgkkjAH...AghkjAAAAgkllllllkjAAAH.....AllllllllllkjAAAH.......AgkkjAH.AAAgkllAAgkkjAH...AgkkjAAghkkllllllllllAAgkkjAbA........AgkkjAH...AghkjAH.....AllllA.....
+AgiiiAHHH.AgiiiAAgiiiAH...AgiiiAH.AgiiiiiiiiiAHHH.....AgiiiiiiiiiiiAHHH.......AgiiiAH...AgiiiAAgiiiAH...AgiiiAAgiiiiiiiiiiiiiAAgiiiAAA........AgiiiAH...AgiiiAH.....AgiiiA.....
+AAAAAAH...AAAAAAAAAAAAH...AAAAAAH.AAAAAAAAAAAAH.......AAAAAAAAAAAAAAH.........AAAAAAH...AAAAAAAAAAAAH...AAAAAAAAAAAAAAAAAAAAAAAAAAAAH.H.......AAAAAAH...AAAAAAH.....AAAAAAH....
+...HHHH......HHHH.AAAHH......HHHH....HHHHHHHHHH.....AAA..HAAAHHHHHHHH........AAA.HHHH......HHHH..HHHH......HHHH..HHHHHHHHHHHHHH..HHHH............HHHH......HHHH........HHHH....
+..................AkA...............................APA...AYA................AbA...............................................................................................
+..................AAA...............................AAA...AAA................AAA...............................................................................................
+AAA..................H.................................H.....H..................H...........................................AAA................................................
+APA.........................................................................................................................AbA................................................
+AAA.........................................................................................................................AAA................................................
+...H...........................................................................................................................H...............................................
+END

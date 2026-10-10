@@ -1,0 +1,14 @@
+# Partida guardada de WHO'S RALPH? (no editar a mano)
+punto=NIVEL_SECRETO
+reputacion=4
+empatia=3
+niveles=3
+puntuacion=8650
+positivas=5
+negativas=1
+decision.badanon=1
+decision.carro=1
+decision.felix_invita=1
+decision.heros=2
+decision.medalla=1
+decision.obstaculo=1

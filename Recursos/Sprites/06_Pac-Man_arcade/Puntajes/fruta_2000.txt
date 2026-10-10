@@ -1,0 +1,13 @@
+SPRITE fruta_2000
+SIZE 20 7
+COLORS 1
+A FFB7FF
+PIXELS
+.AAA...AA...AA...AA.
+A...A.A..A.A..A.A..A
+A...A.A..A.A..A.A..A
+...A..A..A.A..A.A..A
+..A...A..A.A..A.A..A
+.A....A..A.A..A.A..A
+AAAAA..AA...AA...AA.
+END

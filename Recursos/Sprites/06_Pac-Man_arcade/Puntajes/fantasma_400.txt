@@ -1,0 +1,13 @@
+SPRITE fantasma_400
+SIZE 14 7
+COLORS 1
+A 00FFFF
+PIXELS
+...A...AA...AA
+..AA..A..A.A..
+.A.A..A..A.A..
+A..A..A..A.A..
+AAAAA.A..A.A..
+...A..A..A.A..
+...A...AA...AA
+END
